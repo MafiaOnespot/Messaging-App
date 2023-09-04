@@ -23,7 +23,7 @@ Creating an innovative and responsive chat application with Firebase backend and
    - Update this information in real-time.
 
 6. **Responsiveness:**
-   - Make the application responsive for different screen sizes and devices using responsive design techniques or a responsive UI framework like Flutter.
+   - Make the application responsive for different screen sizes and devices using responsive design techniques or a responsive UI framework
 
 7. **Backend:**
    - Utilize Firebase as the backend for user authentication, real-time database, and file storage (for multimedia sharing).
